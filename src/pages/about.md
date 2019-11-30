@@ -1,18 +1,16 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: À propos
+subtitle: 'Résumé '
 img_path: images/about.jpg
 menus:
   main:
     title: About
     weight: 4
 template: page
+
 ---
+Après des études dans le domaine du tourisme, et plusieurs voyages à travers le monde, j'ai pu exercer divers métiers en lien avec le tourisme responsable (Auberge de Jeunesse Associative, Service Civique pour accompagner des jeunes dans leurs projets de mobilités, mission de solidarité internationale...).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Tout au long de mes formations et de mes expériences je me suis posée ces questions: Comment être un touriste tout en limitant nos conséquences négatives sur les populations et l'environnement ? Y'a t'il une différence entre touriste et voyageur ? Le tourisme peut il vraiment être bénéfique pour tous ? Pourquoi existe il autant de paradoxe dans ce domaine ?
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Aujourd'hui , pour comprendre l'importance de voyager de manière plus responsable et répondre à ces interrogations, je propose des temps de sensibilisation, d'animation et d'échange sur ce thème lors d'ateliers collaboratifs.

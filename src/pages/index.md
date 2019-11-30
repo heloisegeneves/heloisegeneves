@@ -3,11 +3,12 @@ title: Accueil
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: SENSIBILISER    CONSEILLER   ANIMER    CRÉER
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: "> _Un voyage se passe de motifs. Il ne tarde pas à prouver qu'il se suffit
+    à lui-même. On croit qu'on va faire un voyage, mais bientôt c'est le voyage qui
+    vous fait, ou vous défait._  \n> L'Usage du Monde, Nicolas Bouvier"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

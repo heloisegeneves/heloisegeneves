@@ -1,7 +1,7 @@
 ---
 title: À propos
 subtitle: 'Résumé '
-img_path: images/about.jpg
+img_path: "/images/P1060529.JPG"
 menus:
   main:
     title: About

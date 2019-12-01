@@ -42,7 +42,7 @@ sections:
   title: Nouveautés du blog
   section_id: latest-posts
   component: PostsBlock
-  subtitle: 'Mes pensées, découvertes et dessins en liens avec le tourisme responsable.
+  subtitle: 'Mes pensées, découvertes et dessins en lien avec le tourisme responsable.
     C''est ici que ça se passe ! '
   num_posts_displayed: 2
   actions:

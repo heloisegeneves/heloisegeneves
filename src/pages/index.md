@@ -39,10 +39,11 @@ sections:
       et organiser des événements.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Nouveautés du blog
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: 'Mes pensées, découvertes et dessins en liens avec le tourisme responsable.
+    C''est ici que ça se passe ! '
   num_posts_displayed: 2
   actions:
   - label: View Blog

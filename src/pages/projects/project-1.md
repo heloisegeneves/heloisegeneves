@@ -2,7 +2,7 @@
 title: Atelier participatif - Voyager Responsable
 subtitle: ''
 date: 2019-11-25T23:00:00.000+00:00
-thumb_img_path: "/images/Copie de voyager responsable.png"
+thumb_img_path: "/images/voyager responsable (2).png"
 content_img_path: ''
 template: project
 

@@ -17,7 +17,7 @@ sections:
   subtitle: ''
   layout_style: mosaic
   num_projects_displayed: 6
-  view_all_text: View All
+  view_all_text: La suite ici...
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock

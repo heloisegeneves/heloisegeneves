@@ -7,10 +7,14 @@ content_img_path: "/images/voyager responsable.pdf"
 template: project
 
 ---
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
-
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+GRATUIT ET OUVERT A TOU.TE.S :)  
+  
+ Je vous propose un atelier participatif et convivial sur le "Voyage Responsable" à l'Auberge de Jeunesse de Nantes la Manu.  
+  
+Tourisme vert, écotourisme, voyage solidaire, volontourisme, tourisme durable, responsable ou encore équitable. Noyé.e.s sous tous ces mots ?   
+Cet atelier aura pour but le partage de connaissances et d’expériences et de donner des pistes pour voyager de façon plus responsable.   
+  
+Cela ce terminera par un troc sur le thème du voyage et d'un apéro partagé.   
+  
+Dépoussiérez vos anciens guides du routards et tout autres objets que vous n'utilisez plus sur le thème du voyage,   
+amenez un petit truc pour l'apéro si vous le souhaitez et bien sûr votre bonne humeur. Vous repartirez surement avec pleins d'idées pour vos futurs projets d'aventures nomades.

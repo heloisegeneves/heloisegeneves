@@ -31,9 +31,9 @@ sections:
       de réflexion sur les enjeux du tourisme responsable.
   - title: Sensibiliser
     content: ''
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: Conseiller
+    content: 'Informer et conseiller les touristes mais aussi les professionnels qui
+      veulent se tourner vers un tourisme plus éthique et écologique. '
   - title: Service title
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non

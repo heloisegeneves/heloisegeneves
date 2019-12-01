@@ -1,6 +1,6 @@
 ---
 title: À propos
-subtitle: 'Résumé '
+subtitle: ''
 img_path: "/images/P1060529.JPG"
 menus:
   main:

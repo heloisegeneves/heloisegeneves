@@ -2,12 +2,11 @@
 title: Atelier participatif - Voyager Responsable
 subtitle: ''
 date: 2019-11-25T23:00:00.000+00:00
-thumb_img_path: ''
+thumb_img_path: "/images/voyager responsable (1).png"
 content_img_path: ''
 template: project
 
 ---
-
 ![](/images/voyager responsable.png)
 
 Je vous propose un atelier participatif et convivial sur le "Voyage Responsable" à l'Auberge de Jeunesse de Nantes la Manu.

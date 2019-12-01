@@ -38,4 +38,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/2019-03-10-street-photography.md
-- src/pages/posts/2018-01-11-green.md

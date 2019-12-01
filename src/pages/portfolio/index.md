@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Portfolio
+subtitle: ''
 layout_style: tiles
 menus:
   main:

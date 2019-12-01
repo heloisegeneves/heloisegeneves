@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Récemment
+subtitle: Portfolio
 layout_style: tiles
 menus:
   main:

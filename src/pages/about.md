@@ -1,7 +1,7 @@
 ---
 title: À propos
 subtitle: ''
-img_path: "/images/P1060529.JPG"
+img_path: ''
 menus:
   main:
     title: About
@@ -9,7 +9,7 @@ menus:
 template: page
 
 ---
-Après des études dans le domaine du tourisme, et plusieurs voyages à travers le monde, j'ai pu exercer divers métiers en lien avec le tourisme responsable (Auberge de Jeunesse Associative, Service Civique pour accompagner des jeunes dans leurs projets de mobilités, mission de solidarité internationale...).
+![](/images/P1060529.JPG)Après des études dans le domaine du tourisme, et plusieurs voyages à travers le monde, j'ai pu exercer divers métiers en lien avec le tourisme responsable (Auberge de Jeunesse Associative, Service Civique pour accompagner des jeunes dans leurs projets de mobilités, mission de solidarité internationale...).
 
 Tout au long de mes formations et de mes expériences je me suis posée ces questions: Comment être un touriste tout en limitant nos conséquences négatives sur les populations et l'environnement ? Y'a t'il une différence entre touriste et voyageur ? Le tourisme peut il vraiment être bénéfique pour tous ? Pourquoi existe il autant de paradoxe dans ce domaine ?
 

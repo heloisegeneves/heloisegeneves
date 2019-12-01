@@ -3,12 +3,12 @@ title: Accueil
 sections:
 - type: heroblock
   template: heroblock
-  title: SENSIBILISER    CONSEILLER   ANIMER    CRÉER
+  title: SENSIBILISER -  CONSEILLER - ANIMER -  CRÉER  - ORGANISER
   section_id: hero
   component: HeroBlock
-  content: "> _Un voyage se passe de motifs. Il ne tarde pas à prouver qu'il se suffit
-    à lui-même. On croit qu'on va faire un voyage, mais bientôt c'est le voyage qui
-    vous fait, ou vous défait._  \n> L'Usage du Monde, Nicolas Bouvier"
+  content: "> ###### _Un voyage se passe de motifs. Il ne tarde pas à prouver qu'il
+    se suffit à lui-même. On croit qu'on va faire un voyage, mais bientôt c'est le
+    voyage qui vous fait, ou vous défait._  \n> L'Usage du Monde, Nicolas Bouvier"
 - type: portfolioblock
   template: portfolioblock
   title: Récemment

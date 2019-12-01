@@ -34,10 +34,9 @@ sections:
   - title: Conseiller
     content: 'Informer et conseiller les touristes mais aussi les professionnels qui
       veulent se tourner vers un tourisme plus éthique et écologique. '
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Organiser
+    content: Mettre en lien différents acteurs engagés, développer des partenariats
+      et organiser des événements.
 - type: postsblock
   template: postsblock
   title: Latest from the Blog

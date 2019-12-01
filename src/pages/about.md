@@ -4,7 +4,7 @@ subtitle: ''
 img_path: ''
 menus:
   main:
-    title: About
+    title: À propos
     weight: 4
 template: page
 

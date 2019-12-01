@@ -21,7 +21,7 @@ sections:
   - author
 - type: document
   path: src/pages/index.md
-  label: Home
+  label: Accueil
   templates:
   - home
 - type: document
@@ -56,7 +56,7 @@ sections:
   - post
 - type: directory
   path: src/pages/projects
-  label: Project
+  label: Projets
   create: all
   match: "**/*"
   templates:

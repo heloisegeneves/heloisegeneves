@@ -21,10 +21,10 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Ce que je propose
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   serviceslist:
   - title: Animer
     content: Sous forme d'atelier participatif et collaboratif, j'anime des temps

@@ -7,11 +7,11 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+      "content": "&copy; Héloïse Geneves. Tous droits réservés.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "",
+        "url": "",
         "new_window": true
       }
     ],

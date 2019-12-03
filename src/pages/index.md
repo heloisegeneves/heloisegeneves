@@ -26,11 +26,9 @@ sections:
   component: ServicesBlock
   subtitle: ''
   serviceslist:
-  - title: Animer
+  - title: 'Sensibiliser & Animer '
     content: Sous forme d'atelier participatif et collaboratif, j'anime des temps
       de réflexion sur les enjeux du tourisme responsable.
-  - title: Sensibiliser
-    content: ''
   - title: Conseiller
     content: Informer et conseiller les touristes mais aussi les professionnels qui
       souhaitent se tourner vers un tourisme plus éthique et écologique.

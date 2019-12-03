@@ -32,8 +32,8 @@ sections:
   - title: Sensibiliser
     content: ''
   - title: Conseiller
-    content: 'Informer et conseiller les touristes mais aussi les professionnels qui
-      veulent se tourner vers un tourisme plus éthique et écologique. '
+    content: Informer et conseiller les touristes mais aussi les professionnels qui
+      souhaitent se tourner vers un tourisme plus éthique et écologique.
   - title: Organiser
     content: Mettre en lien différents acteurs engagés, développer des partenariats
       et organiser des événements.

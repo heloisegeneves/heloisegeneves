@@ -1,5 +1,5 @@
 ---
-title: 'Voyager responsable ça veut dire quoi ? '
+title: 'Voyager responsable, ça veut dire quoi ? '
 date: 2019-03-10
 thumb_img_path: "/images/WP_20190706_15_56_16_Pro.jpg"
 content_img_path: ''

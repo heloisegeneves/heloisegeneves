@@ -20,4 +20,4 @@ _Schéma: Atout France_
 
 * En s'engagent à respecter[ la charte éthique](https://www.tourisme-responsable.org/voyager-responsable/charte-ethique-voyageur/) établie par l'ATR ( Association pour un Tourisme Responsable).
 * Piocher des conseils via des guides et des sites engagées (par exemple les guides de voyages des Editions [ViaTao](https://www.viatao.com/), les sites web de [voyageons-autrement](http://www.voyageons-autrement.com/), Hopineo etc...).
-* L'INFORMATION, car voyager responsable c'est voyager en conscience de nos actes et des répercussions que l'ont peut faire, et pour éviter nos impacts négatifs, encore faut-il les connaitre. Pour cela, n'hésitez pas à vous informer sur les lieux que vous souhaitez visite (pays, ville, hébergement, sites touristiques...).
+* L'INFORMATION, car voyager responsable c'est voyager en conscience de nos actes et des répercussions que l'on peut faire, et pour éviter nos impacts négatifs, encore faut-il les connaitre. Pour cela, n'hésitez pas à vous informer sur les lieux que vous souhaitez visite (pays, ville, hébergement, sites touristiques...).

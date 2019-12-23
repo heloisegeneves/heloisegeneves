@@ -20,4 +20,4 @@ Cette soirée conviviale sera ponctuée :
 \- De réponses à vos questions grâces aux échanges avec les témoins ainsi que des conseils des professionnels du CRIJ et de ESN Nantes - Atour du Monde   
 \- Puis, d'une dégustation de galettes des rois  
   
-Après les fêtes, rendez-vous le mercredi 8 janvier 2020 de 18h à 20h au CRIJ pour passer un moment agréable !
+Après les fêtes, rendez-vous le mercredi 8 janvier 2020 de 18h à 20h au CRIJ de Nantes pour passer un moment agréable !

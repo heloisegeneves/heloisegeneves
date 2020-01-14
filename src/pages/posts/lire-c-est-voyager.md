@@ -8,9 +8,11 @@ content_img_path: ''
 excerpt: ''
 
 ---
-![](/images/photo llivre.jpg)2019 a été une année de transition entre deux voyages, le dernier en Asie du Sud-Est et le prochain d'une durée d'un an en Amérique du Sud.   
-2019 a été une année riche en découvertes.   
-J'ai profité de cette année pour pousser mes réflexions sur le tourisme durable, et voici ma petite sélection de livres engagées. 
+![](/images/photo llivre.jpg)
+
+2019 a été une année de transition entre deux voyages, le dernier en Asie du Sud-Est et le prochain d'une durée d'un an en Amérique du Sud.  
+2019 a été une année riche en découvertes.  
+J'ai profité de cette année pour pousser mes réflexions sur le tourisme durable, et voici ma petite sélection de livres engagées.
 
 * **Marc Augé  _ L'impossible voyage: le tourisme et ses images**
 
@@ -19,14 +21,12 @@ _De Disneyland au Mont-Saint-Michel, de Center Parc aux châteaux de Bavière, d
 * **Claude Lévi-Strauss_ Tristes Tropiques**
 
   _Ce livre mêle souvenirs de voyage et méditations philosophiques. Cet ouvrage est un témoignage sur les voyages de Lévi-Strauss et sur son travail anthropologique._
-
-
-* **Jean-Didier Urbain_ L'Idiot du Voyage** 
+* **Jean-Didier Urbain_ L'Idiot du Voyage**
 
   _L'idiot du voyage, c'est le touriste. Il est, on le sait, un mauvais voyageur. C'est du moins la réputation que lui prête aujourd'hui le sens commun, en vertu d'une longue tradition de mépris. Pourtant, le touriste n'est pas si idiot. ..._
 * **Thierry Paquot_ Le Voyage contre le tourisme**
 
-  _Dans êtes oeuvre qui se présente comme un ouvrage scientifique, Thierry Paquot nous apporte une autres vision très critique du touriste, qu'il distingue bien du voyageur._ 
+  _Dans êtes oeuvre qui se présente comme un ouvrage scientifique, Thierry Paquot nous apporte une autres vision très critique du touriste, qu'il distingue bien du voyageur._
 * **Eudes Girard et Thomas Daum_Du Voyage rêvé au tourisme de masse**
 
   _Écolodges, écotourisme, cabanes " tout confort ", gîte à la ferme, tourisme " citoyen " ou " humanitaire ", mise en scène de soi à travers les blogs de voyage... Autant de nouvelles pratiques révélant l'" illusion du local ", la soif inextinguible de décentrement qui tenaille l'imaginaire et les fantasmes du touriste mondialisé._

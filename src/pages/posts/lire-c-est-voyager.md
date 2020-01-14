@@ -1,11 +1,11 @@
 ---
 template: post
 title: Lire c'est voyager.
-subtitle: 'Retrouvez ici mes livres coups de cœur ! '
+subtitle: ''
 date: 2020-01-01T00:00:00+01:00
 thumb_img_path: "/images/photo llivre 2.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Retrouvez ici mes livres coups de cœur ! '
 
 ---
 ![](/images/photo llivre.jpg)

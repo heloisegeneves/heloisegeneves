@@ -5,11 +5,13 @@ subtitle: ''
 date: 2020-01-01T00:00:00+01:00
 thumb_img_path: "/images/photo llivre 2_3.jpg"
 content_img_path: ''
-excerpt: 'Retrouvez ici mes livres coups de cœur ! '
+excerpt: Retrouvez ici mes livres coups de cœur...
 
 ---
-![](/images/photo llivre 2_1.jpg)2019 a été une année de transition entre deux voyages, le dernier en Asie du Sud-Est et le prochain d'une durée d'un an en Amérique du Sud.  
-2019 a été une année riche en découvertes.  
+![](/images/photo llivre 2_1.jpg)
+
+L'année 2019 a été une année de transition entre deux voyages, le dernier en Asie du Sud-Est et le prochain d'une durée d'un an en Amérique du Sud.  
+L'année 2019 a été également une année riche en découvertes.  
 J'ai profité de cette année pour approfondir mes réflexions sur le tourisme durable, et voici ma petite sélection de livres engagées.
 
 * **Marc Augé_ L'impossible voyage: le tourisme et ses images**

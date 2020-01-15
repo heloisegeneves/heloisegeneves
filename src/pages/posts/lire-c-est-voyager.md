@@ -31,7 +31,7 @@ J'ai profité de cette année pour approfondir mes réflexions sur le tourisme d
   _Écolodges, écotourisme, cabanes " tout confort ", gîte à la ferme, tourisme " citoyen " ou " humanitaire ", mise en scène de soi à travers les blogs de voyage... Autant de nouvelles pratiques révélant l'" illusion du local ", la soif inextinguible de décentrement qui tenaille l'imaginaire et les fantasmes du touriste mondialisé._
 * **Voyageons Autrement _ 10 ans de Tourisme Durable**
 
-  _Le portail_ [_Voyageons-Autrement.com_]( "http://www.voyageons-autrement.com/dix-ans-de-tourisme-durable") _a dix ans, dix ans et l’envie de rassembler en un ouvrage un travail de fond réalisé jour après jour depuis 2008. Ce, afin de valoriser l’ensemble des initiatives de tourisme durable en France et à l’étranger qu’il a eu l’occasion de croiser sur sa longue route._
-* Mais aussi la découverte des guides responsables [**Via Tao**]( "https://www.viatao.com/"), avec ma prochaine destination : **La Colombie.**
+  _On retrouve ici du positif !  Le portail_ [_Voyageons-Autrement.com_](http://www.voyageons-autrement.com/dix-ans-de-tourisme-durable "Voyageons-Autrement") _a dix ans, et rassemble ici leur travail depuis 2008. Ce, afin de valoriser l’ensemble des initiatives de tourisme durable en France et à l’étranger qu’il a eu l’occasion de croiser sur sa longue route._
+* **Via Tao_ Colombie** _J'ai découvert les guides responsables_ [**_Via Tao_**](https://www.viatao.com/ "Via Tao")_, avec ma prochaine destination : La Colombie._
 
-  _Des adresses vérifiées, authentiques et engagées. Un guide petit et pratique. Parfait pour le prochain voyage !_
+  _Petit et pratique, dans ces guides on trouve des adresses vérifiées, authentiques et engagées. Parfait pour le prochain voyage !_

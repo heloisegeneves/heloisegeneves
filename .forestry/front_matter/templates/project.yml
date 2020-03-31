@@ -34,4 +34,5 @@ fields:
     required: true
 pages:
 - src/pages/projects/café-globe-trotter.md
+- src/pages/projects/détour-du-monde.md
 - src/pages/projects/project-1.md

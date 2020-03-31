@@ -3,7 +3,7 @@ template: project
 title: Détour du Monde - Podcasts
 subtitle: 'Emissions de radio sur Euradio Nantes. '
 date: 2019-04-01T00:00:00+02:00
-thumb_img_path: "/images/téléchargement.jpg"
+thumb_img_path: "/images/parcours_le_monde_ok.jpg"
 content_img_path: ''
 
 ---

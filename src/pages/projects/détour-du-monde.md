@@ -1,7 +1,7 @@
 ---
 template: project
 title: Détour du Monde
-subtitle: 'Podcast '
+subtitle: Podcasts
 date: 2019-04-01T00:00:00+02:00
 thumb_img_path: "/images/12615412_1685090855103903_1543254919201180596_o.jpg"
 content_img_path: ''

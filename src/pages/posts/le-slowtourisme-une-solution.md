@@ -10,13 +10,5 @@ excerpt: ''
 ---
 ![](/images/Capture.PNG)
 
-Le principe du slowtourisme est simple: prendre son temps.
-
-Voyager moins souvent mais plus longtemps, en utilisant des mobilités douces (la marche, le vélo, un voilier ou encore le train).
-
-Prendre son temps pour se déplacer  
-On voyage en utilisant des mobilités plus douce comme par exemple la marche, le vélo, le boite à voile...).
-
-Prendre son temps pour visiter
-
-Prendre son temps pour se restauré
+Voyager moins souvent mais plus longtemps en utilisant des mobilités douces  comme la marche, le vélo, un voilier ou encore le train : voici les principaux prince de se tourisme lent.  
+On enlève ça montre, et on s’empreigne de l' environnement autour de nous, on prend le temps de le découvrir. 

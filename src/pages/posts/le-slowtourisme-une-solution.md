@@ -10,5 +10,5 @@ excerpt: ''
 ---
 ![](/images/Capture.PNG)
 
-Voyager moins souvent mais plus longtemps en utilisant des mobilités douces  comme la marche, le vélo, un voilier ou encore le train : voici les principaux prince de se tourisme lent.  
+Voyager moins souvent mais plus longtemps en utilisant des mobilités douces  comme la marche, le vélo, un voilier ou encore le train : voici les principaux principe de ce tourisme lent.  
 On enlève ça montre, et on s’empreigne de l' environnement autour de nous, on prend le temps de le découvrir. 

@@ -3,7 +3,7 @@ template: project
 title: Visite guidée - Valras-Plage, Village de Pêcheur
 subtitle: ''
 date: 2018-07-01T00:00:00+02:00
-thumb_img_path: ''
+thumb_img_path: "/images/IMG_20180717_183931.jpg"
 content_img_path: ''
 
 ---

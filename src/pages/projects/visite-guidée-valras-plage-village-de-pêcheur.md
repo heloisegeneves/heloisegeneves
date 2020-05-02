@@ -1,6 +1,6 @@
 ---
 template: project
-title: Visite guidée - Valras-Plage, Village de Pêcheur
+title: Visite guidée - Valras-Plage, Village de Pêcheurs
 subtitle: ''
 date: 2018-07-01T00:00:00+02:00
 thumb_img_path: "/images/Beige Paysage Montagne Voyage Photo Carte postale (1).png"

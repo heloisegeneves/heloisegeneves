@@ -3,12 +3,11 @@ template: project
 title: Visite guidée - Valras-Plage, Village de Pêcheur
 subtitle: ''
 date: 2018-07-01T00:00:00+02:00
-thumb_img_path: "/images/Beige Paysage Montagne Voyage Photo Carte postale.png"
+thumb_img_path: "/images/Beige Paysage Montagne Voyage Photo Carte postale (1).png"
 content_img_path: ''
 
 ---
-
-Conseillère en séjour à l'office du tourisme de Béziers Méditerranée, une fois par semaine j'étais **guide touristique** pour la balade contée de **Valras-Plage, Village de pêcheurs.**
+Conseillère en séjour à l'office du tourisme de Béziers Méditerranée, une fois par semaine j'étais également **guide touristique** pour la balade contée de **Valras-Plage, Village de pêcheurs.**
 
 Valras-Plage, au-delà de la station balnéaire, sa longue plage de sable, son port de plaisance, est un village de pêcheurs ancestral, toujours bien vivant aujourd'hui. Quelles sont les traces passées et actuelles de cette tradition maritime ? C'est ce que l'on découvre dans cette balade contée en petit train.
 

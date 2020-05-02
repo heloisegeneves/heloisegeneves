@@ -1,0 +1,16 @@
+---
+template: project
+title: Visite guidée - Valras-Plage, Village de Pêcheur
+subtitle: ''
+date: 2018-07-01T00:00:00+02:00
+thumb_img_path: ''
+content_img_path: ''
+
+---
+Conseillère en séjour à l'office du tourisme de Béziers Méditerranée, une fois par semaine j'étais **guide touristique** pour la balade contée de **Valras-Plage, Village de pêcheur.**   
+  
+Valras-Plage, au-delà de la station balnéaire, sa longue plage de sable, son port de plaisance, est un village de pêcheurs ancestral, toujours bien vivant aujourd'hui. Quelles sont les traces passées et actuelles de cette tradition maritime ? C'est ce que l'on découvre dans cette balade contée en petit train. 
+
+Après la découverte du port et des anciennes techniques de pêche, nous longeons l'embouchure du fleuve de l'Orb, et en face ce tient la plage protégée Natura 2000 des Orpellières, avec toutes sa faune et sa flore endémique. Nous nous trouvons dans le quartier des pécheurs où nous partons à la rencontre de Jérôme, un pécheur passionnée, qui sensibilise sur l'importances de ces petits métiers mais aussi sur la cause environnementale. Avant de repartir, nous pouvons observer une barque catalane, bateau de pêche traditionnel de la Méditerranée du début du XXe siècle. 
+
+Après un détour vers le futur éco-port de Béziers Méditerranée, la visite se termine une dégustation de produit de la mer, mais aussi de vin du territoire.

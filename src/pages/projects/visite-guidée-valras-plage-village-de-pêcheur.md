@@ -15,5 +15,7 @@ Après la découverte du port et des anciennes techniques de pêche, nous longeo
 
 Après un détour vers le futur éco-port de Béziers Méditerranée, la visite se termine une dégustation de produit de la mer, mais aussi de vin du territoire.
 
+[https://www.beziers-in-mediterranee.com/](https://www.beziers-in-mediterranee.com/ "https://www.beziers-in-mediterranee.com/")
+
   
 ![](/images/Sans titre.jpg)

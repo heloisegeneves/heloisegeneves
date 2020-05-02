@@ -13,5 +13,7 @@ Valras-Plage, au-delà de la station balnéaire, sa longue plage de sable, son p
 
 Après la découverte du port et des anciennes techniques de pêche, nous longeons l'embouchure du fleuve de l'Orb, et en face se tient la plage protégée Natura 2000 des Orpellières, avec toute sa faune et sa flore endémique. Nous nous trouvons dans le quartier des pécheurs où nous partons à la rencontre de Jérôme, un pêcheur passionné, qui sensibilise sur l'importance de ces petits métiers mais aussi sur la cause environnementale. Avant de repartir, nous pouvons observer une barque catalane, bateau de pêche traditionnel de la Méditerranée du début du XXe siècle.
 
-Après un détour vers le futur éco-port de Béziers Méditerranée, la visite se termine une dégustation de produit de la mer, mais aussi de vin du territoire.  
+Après un détour vers le futur éco-port de Béziers Méditerranée, la visite se termine une dégustation de produit de la mer, mais aussi de vin du territoire.
+
+  
 ![](/images/Sans titre.jpg)

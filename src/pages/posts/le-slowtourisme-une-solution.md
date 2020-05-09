@@ -3,7 +3,7 @@ template: post
 title: 'Le slowtourisme '
 subtitle: Une des plus grande richesse est de pouvoir prendre son temps....
 date: 2020-03-01T00:00:00+01:00
-thumb_img_path: "/images/Capture.PNG"
+thumb_img_path: "/images/slow.jpg"
 content_img_path: ''
 excerpt: Une des plus grande richesse est de pouvoir prendre son temps....
 

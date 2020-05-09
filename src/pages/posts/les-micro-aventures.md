@@ -5,7 +5,7 @@ subtitle: 'Partir en voyage au coin de la rue ou à moins d''une heure de chez s
   c''est possible ! Découvrez ici le principe de la micro-aventure. '
 date: 2020-05-09T00:00:00+02:00
 thumb_img_path: "/images/Microaventure.png"
-content_img_path: "/images/Microaventure.png"
+content_img_path: ''
 excerpt: 'Partir en voyage au coin de la rue ou à moins d''une heure de chez soi,
   c''est possible ! Découvrez ici le principe de la micro-aventure. '
 

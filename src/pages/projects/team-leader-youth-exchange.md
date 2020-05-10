@@ -11,6 +11,11 @@ content_img_path: ''
 Ces rencontres se déroulent en dehors des structures scolaires, universitaires ou de formation professionnelle. Elles ont une visée éducative et nécessitent une implication des jeunes à toutes les étapes du projet.  
 Lors d’un échange, les jeunes organisent une série d’activités.
 
-**Lieu:** Magdeburg Allemagne   
-Thème : Cliché, stéréotypes, interculturalité  
-Bosnie, Gr¨ce, Pologne, Allemagne, France, 
+**Lieu:** Magdeburg Allemagne  
+**Thème :** Cliché, stéréotypes, interculturalité  
+Durée : 10 Jours  
+**Qui ?** 10 jeunes de chaque pays : Bosnie, Grêce, Pologne, Allemagne, France.
+
+Avant départ, j'organise avec l'équipe de Parcours le Monde Grand Ouest des ateliers de préparations pour les particpants. L'idée est de prendre des temps pour ce rencontrer en amont, travailler ensemble sur les notions d'interculturalités, et expliquer le déroulement de l'échange de jeunes. Je m'occupe également du transport, et je vais deux jours à Magdeburg pour un temps de formation avec les autres team leader.   
+  
+Pendant l'échange: Mon rôle est de m'assurer que 

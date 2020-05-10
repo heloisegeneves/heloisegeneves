@@ -17,11 +17,13 @@ Lors de mon service civique à Parcours le Monde grand Ouest, j'ai eu l’opport
 **Durée:** 10 Jours  
 **Qui ?** 10 jeunes de 16 à 25 ans de chacun de ses pays : Bosnie, Grèce, Pologne, Allemagne, France.
 
-**Avant départ:** j'organise avec l'équipe de Parcours le Monde Grand Ouest des ateliers de préparations pour les participants. L'idée est de prendre des temps pour ce rencontrer en amont, travailler ensemble sur les notions d'interculturalités, et expliquer le déroulement de l'échange de jeunes. Je m'occupe également du transport et de la logistique.  
-Je vais deux jours à Magdeburg pour un temps de formation avec les autres team leaders pour créer ensemble le planning de l'échange et choisir des intervenants extérieurs.   
+**Avant départ:** j'organise avec l'équipe de Parcours le Monde Grand Ouest des ateliers de préparations pour les participants. Ces ateliers permettent de prendre des temps pour ce rencontrer en amont, connaitre leurs attentes et leurs questionnements, travailler ensemble sur les notions d'interculturalités, et expliquer le déroulement de l'échange de jeunes. Je m'occupe également du transport et de la logistique.  
+Je vais deux jours à Magdeburg pour un temps de formation avec les autres team leaders. Nous créons ensemble le planning afin qu'il réponde aux attentes des jeunes et choisissons des intervenants extérieurs. Il y'aura donc un photographe et caméraman pour un workshop sur les clichés et stéréotypes.   
   
 **Pendant l'échange:** Mon rôle est de m'assurer que les jeunes s’intègre bien au groupe, de les aider avec l'anglais, de répondre à leurs questions et des les accompagner dans cette expérience. Nous animons ensemble des ateliers en utilisant les techniques de l'éducation non-formelle sur le thème des clichés et stéréotypes.   
+Nous participons aux ateliers des autres groupes, ainsi qu'aux workshop en vue de réaliser des court métrages sur le thème de l'échange.   
   
 **Au retour:** Nous organisons des ateliers pour faire le bilan de leurs expériences.   
   
-Bilan: C'est une expériences unique, riche en rencontres et en découvertes. Nous avons beaucoup appris sur les autres jeunes et leurs nationalités. 
+**Bilan:** C'est une expérience unique, ne semaine très intense, riche en rencontres et en découvertes. Nous avons beaucoup appris sur les autres jeunes et leurs nationalités. Cela a permis de remettre en question certains clichés que nous avions, nous a ouvert l'esprit, mais également a créer de véritable amitiés entre les participants.   
+J'ai pu connaitre plus de technique de l'éducation non-formelle. 

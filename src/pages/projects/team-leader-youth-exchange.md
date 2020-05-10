@@ -25,5 +25,5 @@ Nous participons aux ateliers des autres groupes, ainsi qu'aux workshop en vue d
   
 **Au retour:** Nous organisons des ateliers pour faire le bilan de leurs expériences.   
   
-**Bilan:** C'est une expérience unique, ne semaine très intense, riche en rencontres et en découvertes. Nous avons beaucoup appris sur les autres jeunes et leurs nationalités. Cela a permis de remettre en question certains clichés que nous avions, nous a ouvert l'esprit, mais également a créer de véritable amitiés entre les participants.   
-J'ai pu connaitre plus de technique de l'éducation non-formelle. 
+**Bilan:** C'est une expérience unique, une semaine très intense, riche en rencontres et en découvertes. Nous avons beaucoup appris sur les autres jeunes et leurs nationalités. Cela a permis de remettre en question certains clichés que nous avions, nous a ouvert l'esprit, mais également a créer de véritable amitiés entre les participants.   
+J'ai pu connaitre plus de technique de l'éducation non-formelle. Grace à notre préparation au départ, une bonne communication au sein de notre groupe mais aussi avec tout les autres participants, nous avons pu résoudre les difficultés rencontrés. 

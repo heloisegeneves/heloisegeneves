@@ -3,7 +3,7 @@ template: project
 title: Team Leader - Youth Exchange
 subtitle: ''
 date: 2019-04-23T00:00:00+02:00
-thumb_img_path: "/images/Youth Exhange Magdeburg.png"
+thumb_img_path: "/images/Youth Exhange Magdeburg (1).png"
 content_img_path: ''
 
 ---

@@ -3,7 +3,7 @@ template: project
 title: Team Leader - Youth Exchange
 subtitle: ''
 date: 2019-04-23T00:00:00+02:00
-thumb_img_path: ''
+thumb_img_path: "/images/WP_20190325_17_57_30_Pro.jpg"
 content_img_path: ''
 
 ---

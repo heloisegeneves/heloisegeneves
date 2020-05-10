@@ -20,3 +20,5 @@ template: page
 > ###### 
 >
 > ###### Aujourd'hui, pour comprendre l'importance de voyager de manière plus responsable et répondre à ces interrogations, je propose des temps de sensibilisation, d'animation et d'échange lors d'ateliers collaboratifs.
+
+_Héloïse Geneves_

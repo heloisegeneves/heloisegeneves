@@ -8,3 +8,7 @@ content_img_path: ''
 
 ---
 L’hébergement éthique est le thème de cet épisode #23 d’[Au-delà des murs](https://www.allolaplanete.fr/podcast/lhebergement-ethique/) auquel j'ai eu l'occasion de participé, avec également comme invité Anne qui a lancé la plateforme Ethikhotel, cette plateforme d’hébergements éthiques collaboratives qui comprend des écolodges, des hôtels responsables, des guesthouse, en France, en Colombie, au Pérou, en Belgique… et la liste s’agrandit, son site ici : [Ethik-hotels.com](https://www.ethik-hotels.com/fr/) .
+
+Pour écouter le podcast [cliquez-ici ! ](https://www.allolaplanete.fr/podcast/lhebergement-ethique/)
+
+![](/images/capture-d-ecran-2021-10-10-102201.png)

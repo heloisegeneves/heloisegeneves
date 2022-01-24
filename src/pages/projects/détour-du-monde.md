@@ -2,7 +2,7 @@
 template: project
 title: 'Podcasts -Détours du Monde '
 subtitle: 'Emissions de radio sur Euradio Nantes. '
-date: 2019-04-01T00:00:00+02:00
+date: 2019-04-01T00:00:00.000+02:00
 thumb_img_path: "/images/parcours_le_monde_ok.jpg"
 content_img_path: ''
 
@@ -18,12 +18,12 @@ Découvrez ici nos émissions qui vont feront voyager **:**
 ▷ [http://euradio.fr/podcast/detours-du-monde1102/](http://euradio.fr/podcast/detours-du-monde1102/ "http://euradio.fr/podcast/detours-du-monde1102/")  
 Ici, Assia et moi échangeons avec Pierre et Olivier sur leurs retours d’ expérience en service civique dans une médiathèque au Bénin, avec l’association «Des unes aux autres».
 
- ▷ [http://euradio.fr/podcast/detours-du-monde1401-2/](http://euradio.fr/podcast/detours-du-monde1401-2/ "http://euradio.fr/podcast/detours-du-monde1401-2/")
+▷ [http://euradio.fr/podcast/detours-du-monde1401-2/](http://euradio.fr/podcast/detours-du-monde1401-2/ "http://euradio.fr/podcast/detours-du-monde1401-2/")
 
 Dans cette émission, nous discutons avec Frederick, un Allemand actuellement en France dans le cadre d’un service civique. Nous échangeons sur  les différents dispositifs du volontariat européen et international et sur les enjeux d’un volontariat .
 
-  ▷ [http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/](http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/ "http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/")
+▷ [http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/](http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/ "http://euradio.fr/podcast/detours-du-monde-ncg-ncg-on-tour/")
 
-Maxime de la direction vie associative et jeunesse  de la ville de Nantes et Camille de l’Atelier Des Initiatives nous expliquent ce qu’est Nantes Créative Génération et NCG On tour, ainsi que le prix de coopération. Nous retrouvons également Agnès et Pierre qui sont porteur du projet ”Danse sur les murs” et Mylann qui a participé à un voyage en Géorgie dans le cadre de NCG.
+Maxime de la direction vie associative et jeunesse de la ville de Nantes et Camille de l’Atelier Des Initiatives nous expliquent ce qu’est Nantes Créative Génération et NCG On tour, ainsi que le prix de coopération. Nous retrouvons également Agnès et Pierre qui sont porteur du projet ”Danse sur les murs” et Mylann qui a participé à un voyage en Géorgie dans le cadre de NCG.
 
 ![](/images/c300.png)

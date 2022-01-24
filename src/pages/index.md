@@ -19,22 +19,6 @@ sections:
   num_projects_displayed: 6
   view_all_text: La suite ici...
   view_all_url: portfolio/index.html
-- type: servicesblock
-  template: servicesblock
-  title: Ce que je propose
-  section_id: services
-  component: ServicesBlock
-  subtitle: ''
-  serviceslist:
-  - title: 'Sensibiliser & Animer '
-    content: Sous forme d'atelier participatif et collaboratif, j'anime des temps
-      de réflexion sur les enjeux du tourisme responsable.
-  - title: Conseiller
-    content: Informer et conseiller les touristes mais aussi les professionnels qui
-      souhaitent se tourner vers un tourisme plus éthique et écologique.
-  - title: Organiser
-    content: Mettre en lien différents acteurs engagés, développer des partenariats
-      et organiser des événements.
 - type: postsblock
   template: postsblock
   title: Nouveautés du blog

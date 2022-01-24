@@ -1,6 +1,6 @@
 ---
 template: post
-title: Micro-Aventure à Vélo
+title: micro-aventure à vélo
 subtitle: 3 jours entre Rennes et Saint Malo
 date: 2021-09-02T00:00:00+02:00
 thumb_img_path: "/images/img_20210903_104524.jpg"
@@ -9,6 +9,7 @@ excerpt: Sur les voies de halages et la voie verte, le long du canal d'Ille et R
   cet itinéraire vélo est très accessible en trois jours...
 
 ---
+  
 Sur les voies de halages et la voie verte, le long du canal d'Ille et Rance, cet itinéraire vélo est très accessible en trois jours.
 
 **JOUR 1 / RENNES à HEDE-BAZOUGUES**  

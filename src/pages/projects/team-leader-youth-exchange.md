@@ -2,7 +2,7 @@
 template: project
 title: Team Leader - Youth Exchange
 subtitle: ''
-date: 2019-04-23T00:00:00+02:00
+date: 2019-04-23T00:00:00.000+02:00
 thumb_img_path: "/images/Youth Exhange Magdeburg (1).png"
 content_img_path: ''
 
@@ -15,7 +15,7 @@ Lors de mon service civique à Parcours le Monde grand Ouest, j'ai eu l’opport
 **Lieu:** Magdeburg Allemagne  
 **Thème :** Clichés, stéréotypes, interculturalité  
 **Durée:** 10 Jours  
-**Qui ?** plusieurs groupes de 7 à 10 jeunes de 16 à 25 ans de chacun de ses pays : Bosnie, Grèce, Pologne, Allemagne, France.
+**Qui ?** plusieurs groupes de 7 à 10 jeunes de 16 à 25 ans de chacun de ces pays : Bosnie, Grèce, Pologne, Allemagne, France.
 
 **Avant départ:** j'organise avec l'équipe de Parcours le Monde Grand Ouest des ateliers de préparations pour les participants. Ces ateliers permettent de prendre des temps pour se rencontrer en amont, connaitre leurs attentes et leurs questionnements, travailler ensemble sur les notions d'interculturalités, et expliquer le déroulement de l'échange de jeunes. Je m'occupe également du transport et de la logistique.  
 Je vais deux jours à Magdeburg pour un temps de formation avec les autres team leaders. Nous créons ensemble le planning afin qu'il réponde aux attentes des jeunes et choisissons des intervenants extérieurs. Il y'aura donc un photographe et cameraman pour un workshop sur les clichés et stéréotypes.

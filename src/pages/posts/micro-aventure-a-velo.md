@@ -1,6 +1,6 @@
 ---
 template: post
-title: micro-aventure à vélo
+title: Micro-aventure à vélo
 subtitle: 3 jours entre Rennes et Saint Malo
 date: 2021-09-02T00:00:00+02:00
 thumb_img_path: "/images/img_20210903_104524.jpg"
